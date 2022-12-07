@@ -2,8 +2,8 @@
 type mongo to enter into mongodb shell
 
 ## Database Commands
-    View all databases
-      > show dbs
+    ###View all databases
+        > show dbs
     
     Create a new or switch databases 
       > use dbName

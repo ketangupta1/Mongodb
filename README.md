@@ -1,7 +1,7 @@
 # Mongodb
 type mongo to enter into mongodb shell
 
-1. Database Commands
+## Database Commands
     View all databases
       > show dbs
     
@@ -15,7 +15,7 @@ type mongo to enter into mongodb shell
       > drop DataBase
       
     
-2. Collection Commands
+## Collection Commands
     Show Collections
       > show collections
       
@@ -26,7 +26,7 @@ type mongo to enter into mongodb shell
       > db.comments.drop()
       
    
-3. Row(Document) Commands
+## Row(Document) Commands
     Show all Rows in a Collection
       > db.comments.find()
       
